@@ -5,8 +5,6 @@ Description:
 Automation process of facebook login and user verifcation using Rspec, Watir and Selenium Webdriver.
 
 The user is a generated Facebook Test Account.
-Username: oiikwpe_bharambewitz_1581674409@tfbnw.net
-Password: vqw6tpy2jd1
 
 Tools and Versions:
 
